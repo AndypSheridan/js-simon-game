@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "jest-environment-jsdom": "^29.3.1",
     "jshint": "^2.13.6"
-  }
+  },
+  "name": "js-simon-game",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndypSheridan/js-simon-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndypSheridan/js-simon-game/issues"
+  },
+  "homepage": "https://github.com/AndypSheridan/js-simon-game#readme"
 }
